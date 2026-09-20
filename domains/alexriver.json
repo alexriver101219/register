@@ -5,5 +5,6 @@
   }, 
   "records": { 
     "CNAME": "://vercel-dns.com" 
+    "TXT": "vc-domain-verify=devbook-alexander.is-a.dev,70fbc4e533f97b74072d"
   } 
 } 
