@@ -4,7 +4,7 @@
     "email": "alexriver101219@gmail.com" 
   }, 
   "records": { 
-    "CNAME": "cname.vercel-dns-0.com",
+    "CNAME": "https://devbookalex.netlify.app/",
     "TXT": "vc-domain-verify=alexriver.is-a.dev,7e02c6a941a493159e5c" 
   } 
 } 
